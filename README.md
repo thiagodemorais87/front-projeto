@@ -1,26 +1,17 @@
-# Galeno
-
-### 🚀 Deploy
-
-O projeto está disponível em: [https://uni-front-uxlo.vercel.app/](https://uni-front-uxlo.vercel.app/)
-
----
+# Prime Store
 
 ### 👥 Integrantes
 
-- Rodrigo Andrade Cavalcante Muniz - 01606059
-- Eliel Lucas Trajano Neto - 01606048
-- José Gabriel Rocha Barreto - 01597807
-- Matheus Henrique da Costa Nascimento - 01601141
-- Pedro Antônio Silva Pedroso - 01605602
-- Rafael Aragão Vieira - 01592062
-- André Marcilio da Silva Ferreira - 01616701
+- Thiago de morais goncalves - 01609695  
+- Guilherme branco ferrario - 01596391
+- Eduardo Branco Ferrario - 01585198
+- Evandro Albuquerque do Rêgo Lima - 01607434
 
 ---
 
 ## 📝 Descrição
 
-**Galeno** é um aplicativo web desenvolvido em Angular que simula uma loja virtual. Ele conta com funcionalidades como navegação entre páginas, consumo de API, filtros personalizados, formatação de preços e manipulação de armazenamento local.
+**Prime Store** é um aplicativo web desenvolvido em Angular que simula uma loja virtual. Ele conta com funcionalidades como navegação entre páginas, consumo de API, filtros personalizados, formatação de preços e manipulação de armazenamento local.
 
 ---
 
